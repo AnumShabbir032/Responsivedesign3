@@ -1,4 +1,4 @@
-@font-face {
+  @font-face {
     font-family: "Ubuntu";
     src: url(../Ubuntu/Ubuntu-Light.ttf);
 } 
@@ -480,7 +480,7 @@ html {
 }
 /* End Media Query For Desktop Only  */
 
-/* Media Queries for Mobile Phone */ 
+/* Media Queries for Mobile Phone  */
 @media (max-width: 576px) {
 	.nav-bar{
 		height: 10vh;
